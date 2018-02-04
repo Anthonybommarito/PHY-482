@@ -3,9 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Anthony, I'm glad to see you pulling together a number of resourcs and recognizing what you need to learn more about. I am a little concerned that the level of detail here is still low or rather that the summary still is very much of overview of the material. The review of Griffith's reads (to me) like exactly what is in the chapter with little additional digging. The next homework is going to ask you to summarize your background research and synthesize across it, so I'm really looking here for you to motivate, and discuss the details of antennae theory and not smiply state the facts appearing in your sources.
+
+* Score: 12/20
+
 ## Assignment 2
 
-Anthony, I think you have started digging into the right literature to support your paper. Your summaries of the papers were high-level, so you will need to really dig into them in detail -- working to understand the mathematics behind the models that are being developed. I'm glad to see that the AJP article on antenna theory helped you, but I would have liked to see a bit more about the model and the details of it in the summary to make clear that you are digesting these models and working to understand them. I know it's early in the project, but it's important to set a good foundation - it will make writing your paper easier. I think next week, I'm going to be looking for a deeper dive into the papers with a bit more detail onw aht the models are and what they mean.
+Anthony, I think you have started digging into the right literature to support your paper. Your summaries of the papers were high-level, so you will need to really dig into them in detail -- working to understand the mathematics behind the models that are being developed. I'm glad to see that the AJP article on antenna theory helped you, but I would have liked to see a bit more about the model and the details of it in the summary to make clear that you are digesting these models and working to understand them. I know it's early in the project, but it's important to set a good foundation - it will make writing your paper easier. I think next week, I'm going to be looking for a deeper dive into the papers with a bit more detail on what the models are and what they mean.
 
 * Score: 16/20
 
