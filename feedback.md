@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Anthony, I'm glad to see that you have developed the mathematical model for a simple antenna this week. Thanks for reading the feedback. You will need to bring this together with your writing on the theory and applications from your previous submissions to form your paper. One thing that will critical in doing that is organzing everything that you have done so far and deciding how this model you have presented here fits into it all. Additionally, it would be worth putting some figures that describe the model you are presenting (those need not be original if they are referenced). It's important to understand the model from both the mathmematical and conceptual perspective. Great update this week.
+
+* Score: 20/20
+
 ## Assignment 4
 
 Anthony, this part of your paper writing is looking good. I think you have a good overview of what is going on, and some level of detail on the advanced aspects of the problem. As you are working your paper up, I would like you to dig into the solutions of simple Antenna problems. I think the details that are going to be needed in your paper will fall out of expanding on the 3rd paragraph in your writeup. I know that you have done some of this, but you cannot treat the whole paper as something that I have been reading all along, you will need to provide some details (which is a recurring piece of feedback I've given) on the theory and some of the simpler models. By details, I mean setup, derivation, etc. Maybe that hasn't been clear. In any event, this is a good framework for your paper and I will be looking for your to expand and deepen it this week.
