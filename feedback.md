@@ -3,6 +3,13 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+
+## Assignment 6
+
+Anthony, I am seeing a lot of different "updated" files, some that I have read and some that are new (the figure file for example). I read them through and I think that you have a lot of the makings of a paper, but I haven't yet seen how it is all going to come together. I think that's going to be a BIG part of the work you do this week. You won't have any homework other than to bring all these different facets together into a single paper. I'm hoping that this process of compiling different documents is the way in which you personally do that because I haven't been able to see how they come together as of yet. While I appreciate your listening to the feedback and working on the aspects I've asked, I'm a little worried about putting it all together (mainly because that's going to be a fair amount of work, I think). In any event, these figures and there descriptions do compliment the mathematical work you have done. Good luck completing the paper.
+
+* Score: 16/20
+
 ## Assignment 5
 
 Anthony, I'm glad to see that you have developed the mathematical model for a simple antenna this week. Thanks for reading the feedback. You will need to bring this together with your writing on the theory and applications from your previous submissions to form your paper. One thing that will critical in doing that is organzing everything that you have done so far and deciding how this model you have presented here fits into it all. Additionally, it would be worth putting some figures that describe the model you are presenting (those need not be original if they are referenced). It's important to understand the model from both the mathmematical and conceptual perspective. Great update this week.
